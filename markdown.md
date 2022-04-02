@@ -405,6 +405,6 @@ https://experienceleague.adobe.com/docs/contributor/contributor-guide/writing-es
 
 https://joedicastro.com/pages/markdown.html#mark2
 https://emowe.com/cerebro-digital/tutorial-de-markdown-en-espanol/#t-1648490009500
-
+https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 https://tutorialmarkdown.com/sintaxis-extendida
