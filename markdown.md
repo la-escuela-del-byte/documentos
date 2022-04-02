@@ -233,7 +233,7 @@ O dos, sin ensuciar tu espacio de escritura.
 [img2]: /ruta/a/la/imagen2.jpg "Título alternativo"
 
 Imágenes que también son vínculos  
-\[\![texto alternativo](imageurl)](linkurl)
+\[\!\[texto alternativo](imageurl)](linkurl)
 
 # Omitir Markdown
 
