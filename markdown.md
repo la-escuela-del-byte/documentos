@@ -39,6 +39,12 @@ Paratachar texto debe ir escrito entre 4 ~, 2 al principio y 2 al final.
 
 ~~hola~~
 
+# Citas abreviadas
+
+Algunos procesadores Markdown también soportan una sintaxis abreviada para las citas. Podrás agregarlas en línea usando dos comillas dobles tanto al principio como al final de la cita:
+
+Esto es una ""cita""
+
 # Listas de tareas
 
 Para ello solo es necesario guion, espacio , abrir corchete, dejar un espacio, y cerrar corchete, si queremos marcarla entrecorchetes ponemos una x.
@@ -133,11 +139,11 @@ Para crera una lista de definiciones tendrás que agregar un término en la prim
 
 También puedes agregar más de una definición para un mismo término. Para ello basta con que agregues definiciones adicionales en sucesivas líneas:
 
-Término 1
+Término 1  
 : Esta es la definición del término 1
 
-Término 2
-: Esta es la primera definición del término 2
+Término 2  
+: Esta es la primera definición del término 2  
 : Esta es la segunda definición del término 2
 
 # Párrafos y saltos de línea
