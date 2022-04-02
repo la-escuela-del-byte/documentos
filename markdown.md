@@ -177,7 +177,7 @@ La forma más sencilla de escribir código en Markdown es envolver el texto entr
 
 Como ves, es muy útil para introducir código dentro de la misma línea o párrafo, algo que no permite el método siguiente.
 
-# Texto preformateado <pre>
+# Texto preformateado \<pre\>
 
 La otra manera de añadir código en Markdown es comenzar el párrafo con cuatro espacios en blanco. Esto se corresponde con la etiqueta HTML <pre></pre>
 
