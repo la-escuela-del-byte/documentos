@@ -248,10 +248,10 @@ Escribiéndola justo delante de cualquiera de los elementos que verás a continu
 *  asterisco  
 _  guión bajo  
 {} llaves  
-[] corchetes  
-() paréntesis  
-#  almohadilla  
-+  símbolo de suma  
+\[] corchetes  
+\() paréntesis  
+\#  almohadilla  
+\+  símbolo de suma  
 \-  guión  
 \.  punto  
 \!  exclamación  
