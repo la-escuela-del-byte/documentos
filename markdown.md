@@ -215,13 +215,13 @@ Solo que en este caso, deberás añadir un símbolo de ! exclamación al princip
 
 
 
-![Texto alternativo](/ruta/a/la/imagen.jpg)
+\![Texto alternativo](/ruta/a/la/imagen.jpg)
 
 El texto alternativo es lo que se mostraría si la carga de la imagen fallase.
 
 También podrás añadir un título alternativo entrecomillándolo al final de la ruta. Esto sería el título mostrado al dejar el cursor del ratón sobre la imagen.
 
-![Texto alternativo](/ruta/a/la/imagen.jpg "Título alternativo")
+\![Texto alternativo](/ruta/a/la/imagen.jpg "Título alternativo")
 
 Ya que al añadir imágenes también estás tratando con URLs, puedes utilizar el método que viste anteriormente para incluir links mediante referencias, solo que en este caso los enlaces de referencia serán aquellos donde se encuentre tu imagen.
 
