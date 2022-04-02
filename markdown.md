@@ -245,7 +245,7 @@ Escribiéndola justo delante de cualquiera de los elementos que verás a continu
 
 \  barra invertida  
 `  acento invertido  
-\*  asterisco 
+\*  asterisco  
 \_  guión bajo  
 \{} llaves  
 \[] corchetes  
