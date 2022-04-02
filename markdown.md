@@ -55,6 +55,41 @@ lista sin numerar: cada elemento comienza por  \- , * o + espacio en blanco y el
 + b
 + c
 
+
+* a
+
+* b
+
+* c
+
+Los elementos de la lista pueden consistir en múltiples párrafos. Cada párrafo posterior en un elemento de la lista debe estar sangrado por 4 espacios o una pestaña:
+
+
+1.  This is a list item with two paragraphs. Lorem ipsum dolor
+    sit amet, consectetuer adipiscing elit. Aliquam hendrerit
+    mi posuere lectus.
+
+    Vestibulum enim wisi, viverra nec, fringilla in, laoreet
+    vitae, risus. Donec sit amet nisl. Aliquam semper ipsum
+    sit amet velit.
+
+2.  Suspendisse id sem consectetuer libero luctus adipiscing.
+
+
+Para colocar una cita en bloque dentro de un elemento de la lista, los delimitadores de la cita (>) en bloque deben indentarse:
+
+*   A list item with a blockquote:
+
+    > This is a blockquote
+    > inside a list item.
+To put a code block within a list item, the code block needs to be indented twice — 8 spaces or two tabs:
+
+*   A list item with a code block:
+
+        \<code goes here\>
+
+
+
 Para generar listas anidadas dentro de otras, simplemente tendrás que añadir **cuatro espacios en blanco antes del siguiente *, - o +.
 
 - Elemento de lista 1
@@ -174,7 +209,7 @@ La forma más sencilla de escribir código en Markdown es envolver el texto entr
 `Esto es una línea de código`
 
 
-
+La sintaxis de Markdown normal no se procesa dentro de los bloques de código. Por ejemplo, los asteriscos son solo asteriscos literales dentro de un bloque de código. Esto significa que también es fácil usar Markdown para escribir sobre la sintaxis propia de Markdown.
 Como ves, es muy útil para introducir código dentro de la misma línea o párrafo, algo que no permite el método siguiente.
 
 # Texto preformateado \<pre\>
