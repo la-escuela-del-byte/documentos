@@ -81,6 +81,74 @@
 * LA CAIXA
 * SABADELL
 ## HOTELES<a name="id4"></a>
+*  Apple Leisure Group
+*  AMResorts
+*  Palladium Hotel Group
+*  Oca Hoteles
+*  Fergus Hotels
+*  hoteles globales
+*  Princess Hotels
+*  Barceló Gestión Hotelera
+*  Roc Hotels
+*  Meliá Hotels International
+*  Minor Hotel Group
+*  Sercotel Hotels
+*  Grupo Hotusa
+*  H10 Hotels
+*  Hoteles Silken
+*  Iberostar
+*  Eurostars Hotels
+*  NH Hotel Group
+*  Accor
+*  Choice Hotels
+*  R2 Hotels
+*  Sandos Hotels & Resorts
+*  Hotels Viva
+*  Hoteles Hilton
+*  Grupo Barceló
+*  Abba Hoteles
+*  Grupotel Hotels & Resorts
+*  Medplaya
+*  Playasol Ibiza Hotels
+*  Lopesan Hotel Group
+*  Estival Group
+*  Evenia Hotels
+*  Universal Hotels
+*  Magic Costa Blanca Hoteles & Resorts
+*  Zafiro Hotels
+*  Princess Cruises
+*  Playa Hotels & Resorts
+*  Apple Leisure Group
+*  Marriott International
+*  Riu Hotels & Resorts
+*  Sandals Resorts
+*  Palladium Hotel Group
+*  Club Med
+*  Thomas Cook Group
+*  MINOR INTERNATIONAL PUBLIC CO Ltd
+*  Valentin Hotels & Resorts
+*  Sercotel Hotel Group
+*  Hipotels
+## SUPERMERCADOS<a name="id5"></a>
+* ikea
+* decathlon
+* fnac
+* el corte ingles
+* mercadona
+* lidl
+* carrefour
+* eroski
+* mediomarkt
+* aki
+* amazon
+* leroy merlin
+* conforama
+* alcampo
+* dia
+* hipercor
+* sprinter
+* intersport
+## SEGUROS<a name="id6"></a>
 Texto del segundo apartado
-## HOTELES<a name="id4"></a>
+## SUPERMERCADOS<a name="id5"></a>
 Texto del segundo apartado
