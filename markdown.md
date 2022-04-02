@@ -33,11 +33,11 @@ Para escribir algo en negrita y cursiva, se escribe entre \*\*\* o \_\_\_
 ***cursiva y negrita***  
 ___cursiva y negrita___
 
-# Resaltar textoy tachar
+# Resaltar texto y tachar
 
 Para resaltar texto debe ir escrito entre 4 =, 2 al principio y 2 al final. Para tachar lo mismo pero con ~
 
-==hola==  
+gg ==hola==  
 ~~hola~~
 
 # Listas de tareas
@@ -355,13 +355,9 @@ Si necesitas mostrar el carácter tubería | en el interior de la tabla, tendrá
 
 https://www.collectiveray.com/es/hoja-de-referencia-de-rebajas
 
-https://bookdown.org/gboccardo/manual-ED-UCH/introduccion-al-uso-de-rmarkdown-para-la-compilacion-de-resultados-de-rstudio-en-diferentes-formatos.html
 
 https://experienceleague.adobe.com/docs/contributor/contributor-guide/writing-essentials/markdown.html?lang=es
 
-https://daringfireball.net/
-
-https://daringfireball.net/projects/markdown/syntax
 https://joedicastro.com/pages/markdown.html#mark2
 https://emowe.com/cerebro-digital/tutorial-de-markdown-en-espanol/#t-1648490009500
 
