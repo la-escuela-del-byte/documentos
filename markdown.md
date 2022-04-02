@@ -301,28 +301,12 @@ Escribiéndola justo delante de cualquiera de los elementos que verás a continu
 > 
 >     return shell_exec("echo $input | $markdown_script");
 
-Para colocar una cita en bloque dentro de un elemento de la lista, los delimitadores de la cita (>) en bloque deben indentarse:
 
-*   A list item with a blockquote:
-
-    > This is a blockquote
-    > inside a list item.
-To put a code block within a list item, the code block needs to be indented twice — 8 spaces or two tabs:
-
-*   A list item with a code block:
-
-        <code goes here>
-        
-        
- 1986. What a great season.
-In other words, a number-period-space sequence at the beginning of a line. To avoid this, you can backslash-escape the period:
-
-1986\. What a great season.
 
 
 CODE BLOCKS
 
-Los bloques de código formateados previamente se utilizan para escribir sobre código fuente de programación o marcado. En lugar de formar párrafos normales, las líneas de un bloque de código se interpretan literalmente. Markdown envuelve un bloque de código en las etiquetas <pre> y <code>.
+
 
 Para producir un bloque de código en Markdown, simplemente sangra cada línea del bloque por al menos 4 espacios o 1 pestaña. Por ejemplo, dada esta entrada:
 
@@ -337,22 +321,7 @@ Markdown generará:
 <pre><code>This is a code block.
 </code></pre>
 
-Se elimina un nivel de sangría, 4 espacios o 1 pestaña, de cada línea del bloque de código. Por ejemplo, esto:
 
-Here is an example of AppleScript:
-
-    tell application "Foo"
-        beep
-    end tell
-
-Se convertirá en:
-
-<p>Here is an example of AppleScript:</p>
-
-<pre><code>tell application "Foo"
-    beep
-end tell
-</code></pre>
 
 Un bloque de código continúa hasta que alcanza una línea que no está sangrada (o al final del artículo).
 
