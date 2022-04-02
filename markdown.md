@@ -310,7 +310,33 @@ Escribiéndola justo delante de cualquiera de los elementos que verás a continu
 \.  punto  
 \!  exclamación  
 
+# Tablas
 
+Para agregar tablas Markdown debes definir las cabeceras de columna mediante al menos tres guiones \- que se situarán por debajo del texto de la cabecera. Para separar las diferentes cabeceras tendrás que usar un símbolo de tubería |:
+
+
+| Color | Código|
+| --- | ---- |
+| Azul | #RRGGBB |
+| Verde | #008000 |
+
+
+Puedes alinear los elementos de una tabla en el centro, a la derecha o a la izquirrda usando dos puntos : en uno de los lados que definen la cabecera de la tabla para alinear su contenido a la izquierda o a la derecha respectivamente. Para alinear el contenido de la tabla en el centro, debes usar un símbolo : a cada lado de los guiones.
+
+La primera columna del siguiente ejemplo tendrá su contenido alineado a la izquierda, la segunda en el centro y al tercera a la derecha:
+
+| Nombre  | Tipo    | Color |
+| :---    |  :----: |  ---: |
+| Manzana | Fruta   | Rojo  |
+| Pera    | Fruta   | Verde |
+
+En el interior de las tablas podrás agregar varios elementos mediante la sintaxis Markdown, como enlaces, texto en negrita o cursiva o código que puedas incluir en línea. Eso sí, no podrás agregar bloques de código o cualqueir elemento que necesite varias líneas para ser reprensentado.
+
+En el interior de las tablas Markdown no podrás agregar encabezados citas, listas, líneas horizontales, imágenes o etiquetas HTML. En dicho caso tendrías que crear la tabla mediante HTML.
+
+Si necesitas mostrar el carácter tubería | en el interior de la tabla, tendrás que usar su código HTML &#124; en su lugar.
+
+# Combinacion
 
 > ## This is a header.
 > 
@@ -340,3 +366,4 @@ https://joedicastro.com/pages/markdown.html#mark2
 https://emowe.com/cerebro-digital/tutorial-de-markdown-en-espanol/#t-1648490009500
 
 
+https://tutorialmarkdown.com/sintaxis-extendida
