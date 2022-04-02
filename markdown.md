@@ -33,6 +33,25 @@ Para escribir algo en negrita y cursiva, se escribe entre \*\*\* o \_\_\_
 ***cursiva y negrita***  
 ___cursiva y negrita___
 
+# Resaltar textoy tachar
+
+Para resaltar texto debe ir escrito entre 4 =, 2 al principio y 2 al final. Para tachar lo mismo pero con ~
+
+==hola==  
+~~hola~~
+
+# Listas de tareas
+
+Para ello solo es necesario abrir corchete, dejar un espacio, y cerrar corchete: .
+
+Ejemplo:
+
+[ ] Correr
+
+[ ] Comprar pan
+
+[ ] Leer
+
 # Listas
 
 lista numerada: cada elemento comienza por numero seguido de . espacio en blanco y el contenido
