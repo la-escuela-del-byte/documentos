@@ -33,11 +33,10 @@ Para escribir algo en negrita y cursiva, se escribe entre \*\*\* o \_\_\_
 ***cursiva y negrita***  
 ___cursiva y negrita___
 
-# Resaltar texto y tachar
+# Tachar
 
-Para resaltar texto debe ir escrito entre 4 =, 2 al principio y 2 al final. Para tachar lo mismo pero con ~
+Paratachar texto debe ir escrito entre 4 ~, 2 al principio y 2 al final. 
 
-gg ==hola==  
 ~~hola~~
 
 # Listas de tareas
@@ -192,7 +191,14 @@ Para generar links automáticos tan solo tendrás que rodearlos con los símbolo
 
 <http://www.limni.net>
 
- 
+# Enlaces internos con Markdown
+
+Con Markdown los enlaces entre notas se deben crear de esta forma:
+
+\[Nombre de nota](ruta de nota con caracteres porcientos, si aplica)
+ejemplo \[Kaizen filosofía](Kaizen%20filosofía.md)
+    La ruta se conforma por el nombre de la nota + la extensión .md, si el nombre de la nota contiene espacios en blancos, barras, guiones, etc… Debes conocer el código porciento que los representa, para que así puedas sustituirlos en la ruta, por ejemplo, %20 es igual a un espacio en blanco, %2F es igual a una barra / …
+    
 # citas
 
 Las citas se generar utilizando el carácter mayor que > al comienzo del bloque de texto.
