@@ -45,11 +45,11 @@ Para ello solo es necesario guion, abrir corchete, dejar un espacio, y cerrar co
 
 Ejemplo:
 
--[x] Correr
+- [x] Correr
 
--[ ] Comprar pan
+- [ ] Comprar pan
 
--[ ] Leer
+- [ ] Leer
 
 # Listas
 
@@ -357,7 +357,9 @@ Si necesitas mostrar el carácter tubería | en el interior de la tabla, tendrá
 
 
 
-
+hola :ojjj
+hola
+  :hjj
 
 https://www.collectiveray.com/es/hoja-de-referencia-de-rebajas
 
