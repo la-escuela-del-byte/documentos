@@ -41,15 +41,15 @@ Paratachar texto debe ir escrito entre 4 ~, 2 al principio y 2 al final.
 
 # Listas de tareas
 
-Para ello solo es necesario abrir corchete, dejar un espacio, y cerrar corchete: .
+Para ello solo es necesario guion, abrir corchete, dejar un espacio, y cerrar corchete, si queremos marcarla entrecorchetes ponemos una x.
 
 Ejemplo:
 
-[ ] Correr
+-[x] Correr
 
-[ ] Comprar pan
+-[ ] Comprar pan
 
-[ ] Leer
+-[ ] Leer
 
 # Listas
 
