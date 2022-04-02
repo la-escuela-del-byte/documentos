@@ -292,6 +292,7 @@ Escribiéndola justo delante de cualquiera de los elementos que verás a continu
 \!  exclamación  
 
 
+
 > ## This is a header.
 > 
 > 1.   This is the first list item.
@@ -304,41 +305,7 @@ Escribiéndola justo delante de cualquiera de los elementos que verás a continu
 
 
 
-CODE BLOCKS
 
-
-
-Para producir un bloque de código en Markdown, simplemente sangra cada línea del bloque por al menos 4 espacios o 1 pestaña. Por ejemplo, dada esta entrada:
-
-This is a normal paragraph:
-
-    This is a code block.
-
-Markdown generará:
-
-<p>This is a normal paragraph:</p>
-
-<pre><code>This is a code block.
-</code></pre>
-
-
-
-Un bloque de código continúa hasta que alcanza una línea que no está sangrada (o al final del artículo).
-
-Dentro de un bloque de código, los símbolos (&) y los corchetes angulares () se convierten automáticamente en entidades HTML. Esto hace que sea muy fácil incluir un código fuente HTML de ejemplo usando Markdown: simplemente péguelo e indentifíquelo, y Markdown se encargará de la molestia de codificar los símbolos y los corchetes angulares. Por ejemplo, esto:
-
-<div class="footer">
-    &copy; 2004 Foo Corporation
-</div>
-
-Se convertirá en:
-
-<pre><code><div class="footer">
-    &amp;copy; 2004 Foo Corporation
-</div>
-</code></pre>
-
-La sintaxis de Markdown normal no se procesa dentro de los bloques de código. Por ejemplo, los asteriscos son solo asteriscos literales dentro de un bloque de código. Esto significa que también es fácil usar Markdown para escribir sobre la sintaxis propia de Markdown.
 
 
 https://www.collectiveray.com/es/hoja-de-referencia-de-rebajas
@@ -352,5 +319,5 @@ https://daringfireball.net/
 https://daringfireball.net/projects/markdown/syntax
 https://joedicastro.com/pages/markdown.html#mark2
 https://emowe.com/cerebro-digital/tutorial-de-markdown-en-espanol/#t-1648490009500
-https://datosgobar.github.io/portal-andino/markdown-guide/
+
 
