@@ -228,11 +228,12 @@ Ya que al añadir imágenes también estás tratando con URLs, puedes utilizar e
 De esta forma podrías insertar una imagen  
 ![nombre de la imagen][img1]  
 O dos, sin ensuciar tu espacio de escritura.  
-\![nombre de la imagen2][img2] 
+\![nombre de la imagen2][img2]   
 [img1]: /ruta/a/la/imagen.jpg "Título alternativo"
 [img2]: /ruta/a/la/imagen2.jpg "Título alternativo"
 
-Imágenes que también son vínculos 	[![texto alternativo](imageurl)](linkurl)
+Imágenes que también son vínculos  
+\[\![texto alternativo](imageurl)](linkurl)
 
 # Omitir Markdown
 
