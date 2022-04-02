@@ -41,7 +41,7 @@ Paratachar texto debe ir escrito entre 4 ~, 2 al principio y 2 al final.
 
 # Listas de tareas
 
-Para ello solo es necesario guion, abrir corchete, dejar un espacio, y cerrar corchete, si queremos marcarla entrecorchetes ponemos una x.
+Para ello solo es necesario guion, espacio , abrir corchete, dejar un espacio, y cerrar corchete, si queremos marcarla entrecorchetes ponemos una x.
 
 Ejemplo:
 
@@ -357,9 +357,9 @@ Si necesitas mostrar el carácter tubería | en el interior de la tabla, tendrá
 
 
 
-hola :ojjj
-hola
-  :hjj
+hola : ojjj  
+hola  
+  : hjj
 
 https://www.collectiveray.com/es/hoja-de-referencia-de-rebajas
 
