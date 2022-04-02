@@ -124,7 +124,21 @@ Para generar listas anidadas dentro de otras, simplemente tendrás que añadir *
     - Elemento de lista 4
         1. Elemento de lista 5
         2. Elemento de lista 6
+        
+# Listas de definiciones
 
+Muchos procesadores Markdown también aceptan listas de definiciones, que se componen de una serie de términos y sus correspondientes definiciones.
+
+Para crera una lista de definiciones tendrás que agregar un término en la primera línea y, en la línea siguiente, dos puntos : seguidos de un espacio y la definición asociada al término.
+
+También puedes agregar más de una definición para un mismo término. Para ello basta con que agregues definiciones adicionales en sucesivas líneas:
+
+Término 1
+: Esta es la definición del término 1
+
+Término 2
+: Esta es la primera definición del término 2
+: Esta es la segunda definición del término 2
 
 # Párrafos y saltos de línea
 
@@ -344,6 +358,14 @@ En el interior de las tablas Markdown no podrás agregar encabezados citas, list
 
 Si necesitas mostrar el carácter tubería | en el interior de la tabla, tendrás que usar su código HTML &#124; en su lugar.
 
+# emojis
+
+se pegan directamente 
+
+Otro posible modo mediante el cual podrás agregar emojis consiste en usar shortcodes, soportados por la mayor parte de los procesadores Markdown. Los shortcodes incluyen el nombre del emoji y comienzan y terminan por dos puntos 
+
+Los shortcodes de emojis están soportados por algunos de los editores Markdown más utilizados, pero no por todos.
+
 # Combinacion
 
 > ## This is a header.
@@ -359,9 +381,7 @@ Si necesitas mostrar el carácter tubería | en el interior de la tabla, tendrá
 
 
 
-hola : ojjj  
-hola  
-  : hjj
+
 
 https://www.collectiveray.com/es/hoja-de-referencia-de-rebajas
 
