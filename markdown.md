@@ -169,7 +169,7 @@ Creando códigos de bloque.
 Puedes añadir tantas líneas y párrafos como quieras.  
 ~~~
 
-La forma más sencilla de escribir código en Markdown es envolver el texto entre dos comillas sencillas `. Esto se corresponde con la etiqueta HTML <code>
+La forma más sencilla de escribir código en Markdown es envolver el texto entre dos comillas sencillas `. Esto se corresponde con la etiqueta HTML \<code\>
 
 `Esto es una línea de código`
 
@@ -179,7 +179,7 @@ Como ves, es muy útil para introducir código dentro de la misma línea o párr
 
 # Texto preformateado \<pre\>
 
-La otra manera de añadir código en Markdown es comenzar el párrafo con cuatro espacios en blanco. Esto se corresponde con la etiqueta HTML <pre></pre>
+La otra manera de añadir código en Markdown es comenzar el párrafo con cuatro espacios en blanco. Esto se corresponde con la etiqueta HTML \<pre\>\</pre\>
 
 
 
@@ -193,7 +193,7 @@ Ojo, ¡estos espacios deberás incluirlos en cada línea que escribas! Para aña
 
 Las reglas horizontales se utilizan para separar secciones de una manera visual. Las estás viendo constantemente en este artículo ya que las estoy utilizando para separar los diferentes elementos de sintaxis de Markdown.
 
-Para crearlas, en una línea en blanco deberás incluir tres de los siguientes elementos: asteriscos, guiones, o guiones bajos.
+Para crearlas, en una línea en blanco deberás incluir tres de los siguientes elementos segudos: asteriscos, guiones, o guiones bajos.
 
 Es decir
 
