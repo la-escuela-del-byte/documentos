@@ -372,6 +372,15 @@ Otro posible modo mediante el cual podrás agregar emojis consiste en usar short
 
 Los shortcodes de emojis están soportados por algunos de los editores Markdown más utilizados, pero no por todos.
 
+Vídeos
+
+Los vídeos incrustados no se representan de forma nativa en Markdown, pero puede utilizar esta extensión de Markdown.
+
+>[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
+
+# comentario
+\<\!\-\- This content will not appear in the rendered Markdown \-\->
+
 # Combinacion
 
 > ## This is a header.
