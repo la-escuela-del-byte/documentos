@@ -245,9 +245,9 @@ Escribiéndola justo delante de cualquiera de los elementos que verás a continu
 
 \  barra invertida  
 `  acento invertido  
-*  asterisco  
-_  guión bajo  
-{} llaves  
+\*  asterisco 
+\_  guión bajo  
+\{} llaves  
 \[] corchetes  
 \() paréntesis  
 \#  almohadilla  
