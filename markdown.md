@@ -187,9 +187,11 @@ Cuando viste los tipos de links te comenté que había un tipo más: los automá
 
 Estos son necesarios cuando lo que quieres es mostrar una URL completa, y no un enlace enmascarado bajo una palabra o frase como ocurre con los links en línea.
 
-Para generar links automáticos tan solo tendrás que rodearlos con los símbolos < >
+Para generar links automáticos tan solo tendrás que rodearlos con los símbolos < > o sin ellos directamente
 
 <http://www.limni.net>
+http://www.limni.net
+Si no quieres que se muestre un enlace automático, puedes eliminarlo si muestras la URL encapsualda como código:
 
 # Enlaces internos con Markdown
 
