@@ -508,6 +508,23 @@ Puede elegir entre estos tipos de bloques de notas para llamar la atención sobr
     [!AVAILABILITY]
     [!PREREQUISITES]
 
+>[!NOTE]
+>
+>This is a standard NOTE block.
+
+>[!TIP]
+>
+>This is a standard tip.
+
+
+>[!CAUTION]
+>
+>This is a standard tip.
+
+
+>[!WARNING]
+>
+>This is a standard tip.
 
 https://www.collectiveray.com/es/hoja-de-referencia-de-rebajas
 
