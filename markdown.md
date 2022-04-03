@@ -295,7 +295,7 @@ Insertar una imagen con Markdown se realiza de una manera prácticamente idénti
 
 Solo que en este caso, deberás añadir un símbolo de ! exclamación al principio y el enlace no será otro que la ubicación de la imagen.
 
-
+![muralla|100](muralla.png)
 
 \!\[Texto alternativo](/ruta/a/la/imagen.jpg)
 
