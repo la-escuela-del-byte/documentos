@@ -540,6 +540,10 @@ Para agregar un enlace al encabezado desde otra página, tendrás que indicar la
 
 [Encabezado](https://dominio.tld/pagina#identificador).
 
+
+- [ROPA](#id1)
+## ROPA<a name="id1"></a>
+
 https://www.collectiveray.com/es/hoja-de-referencia-de-rebajas
 
 
