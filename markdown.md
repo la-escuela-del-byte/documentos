@@ -493,38 +493,52 @@ solid cube_corner
   endfacet
 endsolid
 ```
-# bloques de notas
+# Notas al pie
+
+Cuando agregas una nota al pie, se agregará un índice que enlazará con la nota y que se mostrará al final del documento con independencia del lugar en donde la definas. Al hacer clic en el índice, saltarás hasta la nota referenciada, al final del documento.
+
+Para agregar una nota tendrás que añadir entre corchetes un acento circunflejo seguido del nombre del identificador de la nota [^id]. Los identificadores podrán contener números y letras, pero no espacios ni tabulaciones. Tendrás que usar el mismo identificador para relacionar el índice con la nota que se mostrará el pie de página.
+
+Para definir el texto de la nota en sí mismo, tendrás que agregar, de nuevo entre corchetes, un acento circunflejo seguido del nombre del identificador de la nota [^id]. Luego deberás agregar dos puntos y el texto de la nota en sí mismo.
+
+El texto de la nota puede estar difinido en una sola línea o en varias líneas.
+
+No necesitas colocar las notas en el pie de página, sino que puedes redactarlas en cualquier lugar. Luego, se agregarán secuencialmente, según hayan sido definidas, al final del documento.
+
+También podemos definir el texto de las notas en varias líneas. Para ello tendremos que agregar una sangría o indentado de cuatro espacios tras la primera línea de la nota, que no necesitará tener ninguna sangría.
+
+Puedes agregar notas al pie para tu contenido si utilizas esta sintaxis de corchetes:
+
+Esta es una nota al pie sencilla[^1].
+
+A footnote can also have multiple lines[^2].  
+
+You can also use words, to fit your writing style more closely[^note].
+
+[^1]: Mi referencia.
+[^2]: Every new line should be prefixed with 2 spaces.  
+  This allows you to have a footnote with multiple lines.
+[^note]:
+    Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
+    This footnote also has been made with a different syntax using 4 spaces for new lines.
 
 
 
-Puede elegir entre estos tipos de bloques de notas para llamar la atención sobre un contenido específico:
+# ids e cabecera
 
-    [!NOTE]
-    [!TIP]
-    [!IMPORTANT]
-    [!CAUTION]
-    [!WARNING]
-    [!ADMINISTRATION]
-    [!AVAILABILITY]
-    [!PREREQUISITES]
+La mayor parte de los procesarores Markdown soportan los identificadores personalizados para los encabezados. Estos identificadores establecerán el valor del atributo id cuando el código Markdown se procese y se convierta en HTML.
 
->[!NOTE]
->
->This is a standard NOTE block.
+Para añadir un identificador personalizado tendrás que agregarlo entre llaves justo después del encabezado, dejando un espacio de por medio. El identificador tendrá que comenzar por un carácter de sostenido # al igual que ocurre en HTML:
 
->[!TIP]
->
->This is a standard tip.
+## Un encabezado {#id-encabezado}
 
+Cuando agregas un identificador a la cabecera podrás enlazarla tanto desde el documento Markdown actual como desde otras páginas. Para agregar un enlace a una cabecera basta con crear un enlace normal y agregar el símbolo # seguido del nombre del identificador como enlace:
 
->[!CAUTION]
->
->This is a standard tip.
+[Encabezado](#identificador)
+[Encabezado](#id-encabezado)
+Para agregar un enlace al encabezado desde otra página, tendrás que indicar la URL como enlace seguida del símbolo # y el nombre del identificador, del mismo modo que en HTML.
 
-
->[!WARNING]
->
->This is a standard tip.
+[Encabezado](https://dominio.tld/pagina#identificador).
 
 https://www.collectiveray.com/es/hoja-de-referencia-de-rebajas
 
