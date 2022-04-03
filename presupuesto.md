@@ -27,6 +27,17 @@
 | Manzana | Fruta   | Rojo  |
 | Pera    | Fruta   | Verde |
 
+# TECNOLOGIA
+
+| Nombre  | Precio   | Enlace |
+| :---    |  :----: |  ---: |
+| Proyector| Fruta   | Rojo  |
+| Pantalla proyector   | Fruta   | Verde |
+| Ebook proyector   | Fruta   | Verde |
+| OTG  | Fruta   | Verde |
+| Gafas realiad virtual   | Fruta   | Verde |
+| Cable gafas realidad virtual | Fruta   | Verde |
+
 # OTROS
 
 | Nombre  | Precio   | Enlace |
