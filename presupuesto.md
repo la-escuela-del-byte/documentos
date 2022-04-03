@@ -33,3 +33,10 @@
 | :---    |  :----: |  ---: |
 | Manzana | Fruta   | Rojo  |
 | Pera    | Fruta   | Verde |
+
+# CURSOS Y CERTIFICACIONES
+
+| Nombre  | Precio   | Enlace |
+| :---    |  :----: |  ---: |
+| Manzana | Fruta   | Rojo  |
+| Pera    | Fruta   | Verde |
