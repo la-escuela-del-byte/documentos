@@ -554,3 +554,5 @@ https://emowe.com/cerebro-digital/tutorial-de-markdown-en-espanol/#t-16484900095
 https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 https://tutorialmarkdown.com/sintaxis-extendida
+
+programa remarkable , algunos programs o versiones de markdown admiten subrayador encerrando texto entre ==texto==
