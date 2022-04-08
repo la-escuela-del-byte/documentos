@@ -25,8 +25,8 @@
 
 ## si los pagan
 - [ ] VMWARE
-- [ ] awsi
-- [ ] cisc
+- [ ] aws
+- [ ] cisco
 - [ ] microsoft
 
 
