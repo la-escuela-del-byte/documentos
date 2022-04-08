@@ -21,9 +21,11 @@
 - [ ] python certificados
 - [ ] java
 - [ ] ccna 3
+- [ ] arduino
 
 
-## si los pagan
+
+## si las pagan
 - [ ] VMWARE
 - [ ] aws
 - [ ] cisco
@@ -46,7 +48,7 @@
 
 - hack
 - big data
-- arduino
+
 - mongo
 - base de datoss
 - ibm
