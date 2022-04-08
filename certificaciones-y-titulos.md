@@ -17,17 +17,33 @@
 - [ ] lpic 1
 - [ ] lpic 2
 - [ ] lpic 3
-- [X] VMWARE : DESCARTADA
+- [ ] unitys certificados
+- [ ] python certificados
+- [ ] java
+- [ ] ccna 3
+
+
+## si los pagan
+- [ ] VMWARE
+- [ ] awsi
+- [ ] cisc
+- [ ] microsoft
+
+
+
+
+
+
+
+- android 
+- 
 - google
 - @
 - 
 - docker y kunernetes
-- aws
+
 - red hat
-- lpic
-- java 
-- python
-- videojuegos
+
 - hack
 - big data
 - arduino
@@ -38,7 +54,7 @@
 - azure
 - i genieria software
 - big data
-- cisco CCNA
+- mirar lo de madrid
 
 ## SEGURIDAD
 - OSCP
@@ -58,6 +74,7 @@
 
 # Cursos
 
+- domestika
 - Crehana
 - Udemy
 - Mastermind
