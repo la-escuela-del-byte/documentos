@@ -50,8 +50,6 @@
 - mongo
 - base de datoss
 - ibm
-- microsoft
-- azure
 - i genieria software
 - big data
 - mirar lo de madrid
