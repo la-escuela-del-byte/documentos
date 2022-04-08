@@ -20,8 +20,8 @@
 19. [BEBIDA Y COMIDA](#id19)
 20. [RADIO, TV Y PERIODICO](#id20)
 21. [ELECTRONICA E INFORMATICA](#id21)
-22. [DEPORTE](#id20)
-23. [CONTACTOS](#id21)
+22. [DEPORTE](#id22)
+23. [CONTACTOS](#id23)
 
 
 ## ROPA<a name="id1"></a>
@@ -78,8 +78,10 @@
 ## BANCO<a name="id3"></a>
 * BBVA
 * SANTANDER
+* benkinter
 * LA CAIXA
 * SABADELL
+* caixa rural
 ## HOTELES<a name="id4"></a>
 *  Apple Leisure Group
 *  AMResorts
@@ -149,6 +151,142 @@
 * sprinter
 * intersport
 ## SEGUROS<a name="id6"></a>
+* mafre
+* allianz
+* ocaso
+* axa
+* aegon
+* reale seguros
+* direct seguros
+* mutua madrileña
+* linea directa
+* liberty seguros
+* catalana ocidente
+* ing
+* generalli seguros
+* qualitas
+* verti seguros
+* seguros santa lucia
+* zurich
+* genesis
+* pelayo seguros
+* sanitas
+* adeslas
+* caser seguros
+## GASOLINERAS Y PETROLERAS<a name="id7"></a>
+* BP
+* SHELL
+* REPSOL
+* Exxon-Mobil
+* CAMPS
+* CEPSA
+* PETRONOR
+* BG GROUP
+* Gulf Oil
+## FABRICAS DE COCHES<a name="id8"></a>
+* ferrari
+* lamborghini
+* porche
+* nissan
+* citroen
+* bmwb 
+* audi
+* renault
+* mercedes
+* ford
+* seat
+* suzuki
+* opel
+* iveco
+* volsbaguen
+## FABRICAS DE MOTOS Y QUADS<a name="id9"></a>
+* rieju
+* quazzar
+* gasgas
+* RAV-RIDERS
+* montesa
+* mitt
+* macbor
+* derbi
+* MH MOTOR HISPANIA
+* SHERCO
+* kawasaki
+* honda
+* yamaha
+* suzuki
+## FABRICAS DE CAMIONES Y AVIONES<a name="id10"></a>
+* scania
+* volvo
+* daf
+* pegasus
+* man
+* mitshibishi
+* Airbus Group
+* airbus
+* Eurofighter GmbH
+* UAV Navigation
+## COMPAÑIAS E TRANSPORTE DE MERCANCIAS<a name="id11"></a>
+* caf Construcciones y Auxiliar de Ferrocarriles
+* seur
+* correos
+* ups
+* dhl express
+* mrw
+* correo express
+* prosegur
+## COMPAÑIAS DE TREN<a name="id12"></a>
+* talgo
+* renfe
+* eurostar
+## COMPAÑIAS DE COCHE TAXI<a name="id13"></a>
+* uber
+## COMPAÑIA DE BUS<a name="id14"></a>
+* alsa
+* FlixMobility
+## COMPAÑIA DE AVIONES<a name="id15"></a>
+* ryanair
+* iberia
+* Plus Ultra Líneas Aéreas
+## COMPAÑIA DE CRUCERO<a name="id16"></a>
+* msc cruceros
+* costa cruceros
+## ELECTRICAS<a name="id17"></a>
+* naturgy
+* iberdrola endesa
+* edp
+* eleckor
+## INMOBILIARIAS<a name="id18"></a>
+Texto del segundo apartado
+## BEBIDA Y COMIDA<a name="id19"></a>
+Texto del segundo apartado
+## RADIO, TV Y PERIODICO<a name="id20"></a>
+Texto del segundo apartado
+## ELECTRONICA E INFORMATICA<a name="id21"></a>
+
+## DEPORTE<a name="id22"></a>
+Texto del segundo apartado
+## CONTACTOS<a name="id23"></a>
+Texto del segundo apartado
+
+viajes
+starbucks
+edreams.es
+cabify
+airbnb
+constructoras
+https://www.google.com/search?client=firefox-b-lm&sxsrf=APq-WBvbnHX2D4Z4cWyK0ZRvuF3UxneYlA:1649423880724&q=Repsol&stick=H4sIAAAAAAAAAONgFuLSz9U3MC4wNqyoUEJiawkGZ6aklidWFvulVpQEl6QWFC9iZQsCUvk5O1gZAdLqp3c5AAAA&sa=X&ved=2ahUKEwjPifrjxoT3AhVF-aQKHa01Cv8QzTooAXoECGEQAg&biw=1920&bih=930
+disney
+amazon
+netflix
+siemens
+paypal
+blablacar
+omio
+booking
+vueling
+
+
+## SUPERMERCADOS<a name="id5"></a>
 Texto del segundo apartado
 ## SUPERMERCADOS<a name="id5"></a>
 Texto del segundo apartado
