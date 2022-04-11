@@ -5,6 +5,13 @@
 | :---    |  :----: |  ---: |
 | Manzana | Fruta   | Rojo  |
 | Pera    | Fruta   | Verde |
+| Manzana | Fruta   | Rojo  |
+| Pera    | Fruta   | Verde |
+| Manzana | Fruta   | Rojo  |
+| Pera    | Fruta   | Verde |
+| Manzana | Fruta   | Rojo  |
+| Pera    | Fruta   | Verde |
+| Manzana | Fruta   | Rojo  |
 
 # IMAGEN Y VIDEO
 
@@ -12,11 +19,38 @@
 | :---    |  :----: |  ---: |
 | Manzana | Fruta   | Rojo  |
 | Pera    | Fruta   | Verde |
+| Manzana | Fruta   | Rojo  |
+| Pera    | Fruta   | Verde |
+| Manzana | Fruta   | Rojo  |
+| Pera    | Fruta   | Verde |
+| Manzana | Fruta   | Rojo  |
+| Pera    | Fruta   | Verde |
+| Manzana | Fruta   | Rojo  |
+| Pera    | Fruta   | Verde |
+| Manzana | Fruta   | Rojo  |
+| Pera    | Fruta   | Verde |
+| Manzana | Fruta   | Rojo  |
+| Pera    | Fruta   | Verde |
+| Manzana | Fruta   | Rojo  |
 
 # SONIDO
 
 | Nombre  | Precio   | Enlace |
 | :---    |  :----: |  ---: |
+| Mesa dj | Fruta   | Rojo  |
+| Pera    | Fruta   | Verde |
+| Manzana | Fruta   | Rojo  |
+| Pera    | Fruta   | Verde |
+| Manzana | Fruta   | Rojo  |
+| Pera    | Fruta   | Verde |
+| Manzana | Fruta   | Rojo  |
+| Pera    | Fruta   | Verde |
+| Manzana | Fruta   | Rojo  |
+| Pera    | Fruta   | Verde |
+| Manzana | Fruta   | Rojo  |
+| Pera    | Fruta   | Verde |
+| Manzana | Fruta   | Rojo  |
+| Pera    | Fruta   | Verde |
 | Manzana | Fruta   | Rojo  |
 | Pera    | Fruta   | Verde |
 
@@ -26,7 +60,21 @@
 | :---    |  :----: |  ---: |
 | Manzana | Fruta   | Rojo  |
 | Pera    | Fruta   | Verde |
+| Manzana | Fruta   | Rojo  |
+| Pera    | Fruta   | Verde |
+| Manzana | Fruta   | Rojo  |
+| Pera    | Fruta   | Verde |
+| Manzana | Fruta   | Rojo  |
+| Pera    | Fruta   | Verde |
+| Manzana | Fruta   | Rojo  |
 
+| Manzana | Fruta   | Rojo  |
+| Pera    | Fruta   | Verde |
+| Manzana | Fruta   | Rojo  |
+| Pera    | Fruta   | Verde |
+| Manzana | Fruta   | Rojo  |
+| Pera    | Fruta   | Verde |
+| Manzana | Fruta   | Rojo  |
 # TECNOLOGIA
 
 | Nombre  | Precio   | Enlace |
@@ -44,6 +92,13 @@
 | :---    |  :----: |  ---: |
 | Manzana | Fruta   | Rojo  |
 | Pera    | Fruta   | Verde |
+| Manzana | Fruta   | Rojo  |
+| Pera    | Fruta   | Verde |
+| Manzana | Fruta   | Rojo  |
+| Pera    | Fruta   | Verde |
+| Manzana | Fruta   | Rojo  |
+| Pera    | Fruta   | Verde |
+| Manzana | Fruta   | Rojo  |
 
 # CURSOS Y CERTIFICACIONES
 
