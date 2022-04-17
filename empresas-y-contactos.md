@@ -247,33 +247,112 @@
 * ryanair
 * iberia
 * Plus Ultra Líneas Aéreas
+* aena
+* expedia 
+* trpadvisor
+* booking
+* trivago
+* vueling
 ## COMPAÑIA DE CRUCERO<a name="id16"></a>
 * msc cruceros
 * costa cruceros
 ## ELECTRICAS<a name="id17"></a>
 * naturgy
-* iberdrola endesa
+* iberdrola 
+* endesa
 * edp
 * eleckor
+* fenosa
+* abengoa
+* acciona
+* norvento
+* vestas
+* aquona
+* fcc
+* aqualia
+* enagas
 ## INMOBILIARIAS<a name="id18"></a>
-Texto del segundo apartado
+* grupo san jose sa
+* idealista
+* fotocasa
+* airbnb
 ## BEBIDA Y COMIDA<a name="id19"></a>
-Texto del segundo apartado
+* mcdonals
+* dominos
+* papa jhones
+* kfc
+* telepizza
+* starbucks
+* burguer king
+* lays
+* pringles
+* doritos
+* ruffles
+* tigretones
+* cheetos
+* grefusa
+* fosquitos
+* m&m
+* milska
+* nestle
+* kitkat
+* kinder bueno
+* oreo
+* nuttela
+* lindt
+* ferrero
+* cocacola
+* sunny
+* pepsi
+* fanta
+* kas
+* sprite
+* estrella galicia
+* cruzcampo
+* damm
+* mahoue
+* amstel
+* heineken
+* larios
+* jack daniels
+* cien pipers
+* johny walker
+* ballentines
+* bacardi
+* bimbo
+* martini
+* barcelo
+* brugal
 ## RADIO, TV Y PERIODICO<a name="id20"></a>
 Texto del segundo apartado
 ## ELECTRONICA E INFORMATICA<a name="id21"></a>
 
 ## DEPORTE<a name="id22"></a>
-Texto del segundo apartado
+* futbol
+* baloncesto
+* atletismo
+* rigby
+* tenis
+* coches
+* motos
+* natacion
+* piraguismo
 ## CONTACTOS<a name="id23"></a>
 Texto del segundo apartado
 
-viajes
-starbucks
+
+
 edreams.es
+ferrovial
+sacyr
 cabify
-airbnb
-constructoras
+grupo acs
+
+ohla
+acerinox
+grupo amadeus
+
+
 https://www.google.com/search?client=firefox-b-lm&sxsrf=APq-WBvbnHX2D4Z4cWyK0ZRvuF3UxneYlA:1649423880724&q=Repsol&stick=H4sIAAAAAAAAAONgFuLSz9U3MC4wNqyoUEJiawkGZ6aklidWFvulVpQEl6QWFC9iZQsCUvk5O1gZAdLqp3c5AAAA&sa=X&ved=2ahUKEwjPifrjxoT3AhVF-aQKHa01Cv8QzTooAXoECGEQAg&biw=1920&bih=930
 disney
 amazon
@@ -282,8 +361,6 @@ siemens
 paypal
 blablacar
 omio
-booking
-vueling
 
 
 ## SUPERMERCADOS<a name="id5"></a>
