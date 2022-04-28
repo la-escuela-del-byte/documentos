@@ -71,6 +71,7 @@
 - eWPTXv2 
 - CPHE 
 - CHEE 
+- osce
 
 # Cursos
 
